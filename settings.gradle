@@ -1,0 +1,2 @@
+rootProject.name='Fido Delivery'
+include ':app'
